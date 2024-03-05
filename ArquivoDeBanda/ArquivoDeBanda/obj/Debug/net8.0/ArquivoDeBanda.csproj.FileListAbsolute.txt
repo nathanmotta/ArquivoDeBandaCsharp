@@ -1,0 +1,14 @@
+C:\Users\natha\OneDrive\Área de Trabalho\Projetos_POO\ArquivoDeBanda\ArquivoDeBanda\obj\Debug\net8.0\ArquivoDeBanda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\OneDrive\Área de Trabalho\Projetos_POO\ArquivoDeBanda\ArquivoDeBanda\obj\Debug\net8.0\ArquivoDeBanda.AssemblyInfoInputs.cache
+C:\Users\natha\OneDrive\Área de Trabalho\Projetos_POO\ArquivoDeBanda\ArquivoDeBanda\obj\Debug\net8.0\ArquivoDeBanda.AssemblyInfo.cs
+C:\Users\natha\OneDrive\Área de Trabalho\Projetos_POO\ArquivoDeBanda\ArquivoDeBanda\obj\Debug\net8.0\ArquivoDeBanda.csproj.CoreCompileInputs.cache
+C:\Users\natha\OneDrive\Área de Trabalho\Projetos_POO\ArquivoDeBanda\ArquivoDeBanda\bin\Debug\net8.0\ArquivoDeBanda.exe
+C:\Users\natha\OneDrive\Área de Trabalho\Projetos_POO\ArquivoDeBanda\ArquivoDeBanda\bin\Debug\net8.0\ArquivoDeBanda.deps.json
+C:\Users\natha\OneDrive\Área de Trabalho\Projetos_POO\ArquivoDeBanda\ArquivoDeBanda\bin\Debug\net8.0\ArquivoDeBanda.runtimeconfig.json
+C:\Users\natha\OneDrive\Área de Trabalho\Projetos_POO\ArquivoDeBanda\ArquivoDeBanda\bin\Debug\net8.0\ArquivoDeBanda.dll
+C:\Users\natha\OneDrive\Área de Trabalho\Projetos_POO\ArquivoDeBanda\ArquivoDeBanda\bin\Debug\net8.0\ArquivoDeBanda.pdb
+C:\Users\natha\OneDrive\Área de Trabalho\Projetos_POO\ArquivoDeBanda\ArquivoDeBanda\obj\Debug\net8.0\ArquivoDeBanda.dll
+C:\Users\natha\OneDrive\Área de Trabalho\Projetos_POO\ArquivoDeBanda\ArquivoDeBanda\obj\Debug\net8.0\refint\ArquivoDeBanda.dll
+C:\Users\natha\OneDrive\Área de Trabalho\Projetos_POO\ArquivoDeBanda\ArquivoDeBanda\obj\Debug\net8.0\ArquivoDeBanda.pdb
+C:\Users\natha\OneDrive\Área de Trabalho\Projetos_POO\ArquivoDeBanda\ArquivoDeBanda\obj\Debug\net8.0\ArquivoDeBanda.genruntimeconfig.cache
+C:\Users\natha\OneDrive\Área de Trabalho\Projetos_POO\ArquivoDeBanda\ArquivoDeBanda\obj\Debug\net8.0\ref\ArquivoDeBanda.dll
